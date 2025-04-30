@@ -17,9 +17,9 @@ const bioData = {
   
 // Create a string variable in three different ways.
 
-var firstName = "Nduka";
+let firstName = `Nduka`;
 console.log(firstName);
-let middleName = "Asoh";
+let middleName = 'Asoh';
 console.log(middleName);
 const lastName = "Obewu";
 console.log(lastName);
